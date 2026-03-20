@@ -45,6 +45,6 @@ CS @ Texas A&M
 
 ### Currently Playing
 
-<a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">
+<a href="https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ">
   <img src="now-playing.svg" alt="Tame Impala - The Less I Know The Better"/>
 </a>
