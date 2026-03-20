@@ -1,51 +1,53 @@
-<h1 align="center">hey, i'm eshaan 👋</h1>
+<div align="center">
 
-<p align="center">
-  CS @ Texas A&M · building with Python, AI, and whatever's interesting
-</p>
+# Eshaan Saini.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eshaansaini2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/eshaansaini2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+CS @ Texas A&M &nbsp;·&nbsp; building things that actually help people
+
+<a href="https://github.com/eshaansaini2004">
+  <img src="https://img.shields.io/badge/GitHub-eshaansaini2004-ffffff?style=flat-square&logo=github&logoColor=000000&labelColor=ffffff&color=000000"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/eshaan2004/">
+  <img src="https://img.shields.io/badge/LinkedIn-eshaan2004-ffffff?style=flat-square&logo=linkedin&logoColor=000000&labelColor=ffffff&color=000000"/>
+</a>
+&nbsp;
+<a href="mailto:eshaansaini2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-eshaansaini2004@gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=000000&labelColor=ffffff&color=000000"/>
+</a>
+
+</div>
 
 ---
 
-### 🛠 stack
+### S t a c k
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=cplusplus&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=nodedotjs&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazonaws&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=000000"/>
 </p>
 
 ---
 
-### 📊 github stats
+### G i t H u b
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaansaini2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaansaini2004&layout=compact&bg_color=000000&title_color=ffffff&text_color=999999&border_color=333333&hide_border=false" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaansaini2004&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eshaansaini2004&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=eshaansaini2004&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=999999&sideLabels=999999&dates=666666&border=333333" height="150"/>
 </p>
 
 ---
 
-### 🎵 currently playing
+### C u r r e n t l y  P l a y i n g
 
 <p align="center">
   <a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">
@@ -55,45 +57,18 @@
 
 ---
 
-### 🚀 stuff i've built
+### W o r k s
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/eshaansaini2004/Code-Cartographer">
-        <b>Code Cartographer</b>
-      </a><br/>
-      <sub>codebase visualizer — maps out structure and deps of any repo</sub><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td>
-      <a href="https://github.com/eshaansaini2004/phish-shield-ext">
-        <b>PhishShield</b>
-      </a><br/>
-      <sub>Chrome extension — real-time phishing detection with heuristics + threat intel</sub><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/eshaansaini2004/Study-pilot">
-        <b>Study Pilot</b>
-      </a><br/>
-      <sub>AI study assistant — auto-generates quizzes and summaries from notes</sub><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td>
-      <a href="https://github.com/eshaansaini2004/coc-discord-bot">
-        <b>CoC Discord Bot</b>
-      </a><br/>
-      <sub>Clash of Clans war tracker and CWL role assigner</sub><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| Project | Description | Stack |
+|---|---|---|
+| [Code Cartographer](https://github.com/eshaansaini2004/Code-Cartographer) | Codebase visualizer — maps structure and deps of any repo | Python |
+| [PhishShield](https://github.com/eshaansaini2004/phish-shield-ext) | Chrome extension — real-time phishing detection with heuristics + threat intel | JavaScript |
+| [Study Pilot](https://github.com/eshaansaini2004/Study-pilot) | AI-powered code analysis tool with project-scoped chatbot and batch analysis via Gemini | Python · Flask |
+| [ShareTea POS](https://github.com/michtra/project3-team21-team-method) | Full-stack POS system, 5-member team, 90k+ DB entries, deployed on AWS | React · Node.js · AWS |
+| [ThroughTheCookbook](https://github.com/eshaansaini2004/throughthecookbook1) | E-commerce platform for a small business with real-time order processing | React · Vercel |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eshaansaini2004&color=blueviolet&style=flat-square&label=profile+views"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eshaansaini2004&color=ffffff&style=flat-square&label=views"/>
+</div>
