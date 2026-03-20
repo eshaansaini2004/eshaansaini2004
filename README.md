@@ -45,14 +45,6 @@ CS @ Texas A&M
 
 ### Currently Playing
 
-<p align="center">
-  <a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">
-    <img src="now-playing.svg" alt="Tame Impala - The Less I Know The Better"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eshaansaini2004&color=ffffff&style=flat-square&label=views"/>
-</div>
+<a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">
+  <img src="now-playing.svg" alt="Tame Impala - The Less I Know The Better"/>
+</a>
