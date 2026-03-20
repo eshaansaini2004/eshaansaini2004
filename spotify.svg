@@ -1,0 +1,69 @@
+<svg width="420" height="90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .card { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .title { font-size: 11px; fill: #b3b3b3; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; }
+      .song { font-size: 15px; fill: #ffffff; font-weight: 700; }
+      .artist { font-size: 12px; fill: #b3b3b3; font-weight: 400; }
+      .bar {
+        animation: bounce 1.2s ease infinite;
+        transform-origin: bottom;
+      }
+      .bar:nth-child(2) { animation-delay: 0.2s; }
+      .bar:nth-child(3) { animation-delay: 0.4s; }
+      .bar:nth-child(4) { animation-delay: 0.1s; }
+      .bar:nth-child(5) { animation-delay: 0.3s; }
+      @keyframes bounce {
+        0%, 100% { transform: scaleY(0.4); }
+        50% { transform: scaleY(1); }
+      }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <clipPath id="art">
+      <rect x="16" y="16" width="58" height="58" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="420" height="90" rx="12" fill="url(#bg)"/>
+  <rect width="420" height="90" rx="12" fill="none" stroke="#2a2a3e" stroke-width="1"/>
+
+  <!-- Album art background -->
+  <rect x="16" y="16" width="58" height="58" rx="4" fill="#1DB954" opacity="0.15"/>
+  <!-- Simplified album art - psychedelic circle -->
+  <circle cx="45" cy="45" r="29" fill="#1a0a2e" clip-path="url(#art)"/>
+  <circle cx="45" cy="45" r="20" fill="#2d1b4e" clip-path="url(#art)"/>
+  <circle cx="45" cy="45" r="12" fill="#1DB954" opacity="0.7" clip-path="url(#art)"/>
+  <circle cx="45" cy="45" r="5" fill="#0d0d1a" clip-path="url(#art)"/>
+  <circle cx="31" cy="32" r="8" fill="#ff6b6b" opacity="0.4" clip-path="url(#art)"/>
+  <circle cx="59" cy="58" r="10" fill="#ffd93d" opacity="0.3" clip-path="url(#art)"/>
+
+  <!-- Spotify logo -->
+  <circle cx="393" cy="17" r="10" fill="#1DB954"/>
+  <text x="393" y="21" text-anchor="middle" fill="white" font-size="10" font-family="sans-serif">♪</text>
+
+  <!-- Now playing label -->
+  <text x="90" y="30" class="title card">Now Playing</text>
+
+  <!-- Song name -->
+  <text x="90" y="50" class="song card">The Less I Know The Better</text>
+
+  <!-- Artist -->
+  <text x="90" y="67" class="artist card">Tame Impala</text>
+
+  <!-- Animated bars -->
+  <g transform="translate(90, 82)">
+    <rect class="bar" x="0"  y="-10" width="3" height="10" rx="1.5" fill="#1DB954"/>
+    <rect class="bar" x="5"  y="-10" width="3" height="10" rx="1.5" fill="#1DB954"/>
+    <rect class="bar" x="10" y="-10" width="3" height="10" rx="1.5" fill="#1DB954"/>
+    <rect class="bar" x="15" y="-10" width="3" height="10" rx="1.5" fill="#1DB954"/>
+    <rect class="bar" x="20" y="-10" width="3" height="10" rx="1.5" fill="#1DB954"/>
+  </g>
+
+  <!-- Progress bar -->
+  <rect x="90" y="78" width="305" height="2" rx="1" fill="#2a2a3e"/>
+  <rect x="90" y="78" width="142" height="2" rx="1" fill="#1DB954"/>
+</svg>

@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">
-    <img src="https://img.shields.io/badge/▶%20Tame%20Impala-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img src="spotify.svg" alt="Tame Impala - The Less I Know The Better" width="420"/>
   </a>
 </p>
 
