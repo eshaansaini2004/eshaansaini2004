@@ -4,13 +4,13 @@
 
 CS @ Texas A&M
 
-<a href="https://github.com/eshaansaini2004"><img src="https://img.shields.io/badge/--181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/eshaansaini2004"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/eshaan2004/"><img src="https://img.shields.io/badge/--0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/eshaan2004/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:eshaansaini2004@gmail.com"><img src="https://img.shields.io/badge/--D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:eshaansaini2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://eshaan-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://eshaan-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -47,7 +47,7 @@ CS @ Texas A&M
 
 <p align="center">
   <a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">
-    <img src="now-playing.svg" alt="Tame Impala - The Less I Know The Better" width="420"/>
+    <img src="now-playing.svg" alt="Tame Impala - The Less I Know The Better"/>
   </a>
 </p>
 
