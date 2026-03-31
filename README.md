@@ -36,8 +36,6 @@ CS @ Texas A&M
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaansaini2004&layout=compact&bg_color=000000&title_color=ffffff&text_color=999999&border_color=333333" height="150"/>
-  &nbsp;
   <img src="https://streak-stats.demolab.com?user=eshaansaini2004&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=999999&sideLabels=999999&dates=666666&border=333333" height="150"/>
 </p>
 
